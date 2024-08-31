@@ -1,0 +1,2 @@
+Instalación OpenCV Python a través de pip:
+pip install opencv-python
